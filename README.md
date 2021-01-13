@@ -1,5 +1,5 @@
 # Mindbowser-Project
-First enter the url http://localhost:8085/mbproject/
+First enter the url localhost:8085/mbproject/
 After that we get three links 
 1-Manager Sign up
 2-Manager Login
